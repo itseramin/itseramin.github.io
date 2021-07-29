@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbenjaminhera_me=self.webpackChunkbenjaminhera_me||[]).push([[883],{9616:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var u=t(7294),r=t(5063);function a(){return u.createElement(r.Z,null,u.createElement("h1",null,"404 - Not found"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-e7b8988a2040158a45bd.js.map
